@@ -1,0 +1,6 @@
+# Fields
+
+fo = open('object.py', 'w') # w SIGNIFICA ESCRIBIR EN EL ARCHIVO
+
+# Get some info
+print('Name of the field', fo.name)

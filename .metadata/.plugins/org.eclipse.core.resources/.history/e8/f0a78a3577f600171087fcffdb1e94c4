@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+'''
+ This is a multiline
+ comment
+'''
+
+# Hello world
+# Stay consistent with the quotes
+print ('Hello world')
+
+print('''This is a print that absoluty works.
+Arturo Gomez\n''')
+
+print ('Hello world'[0:2]) # Numero de caracteres mostrados
+
+def test():
+    pass
+
+def test2():
+    pass

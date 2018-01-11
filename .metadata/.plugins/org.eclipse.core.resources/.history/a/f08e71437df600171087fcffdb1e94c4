@@ -1,0 +1,8 @@
+# Strings funtions
+miString = 'hello world'
+
+# Capitalize
+print(miString.capitalize())
+
+# Swap case
+print(miString.swapcase())

@@ -1,0 +1,13 @@
+# Funtions
+
+# Create a funtions
+def sayHello(): # Define la funcion
+    print('Hello')
+    
+sayHello() # Declara la funcion
+
+# Create a funtions
+def sayHello(name = 'default'): # Define la funcion y un parametro pero con un valor predeterminado
+    print('Hello', name)
+    
+sayHello('Arturo') # Declara la funcion

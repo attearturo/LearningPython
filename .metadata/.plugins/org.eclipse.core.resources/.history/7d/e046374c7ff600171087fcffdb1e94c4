@@ -1,0 +1,3 @@
+import object
+
+object.sayHello('Arturo')

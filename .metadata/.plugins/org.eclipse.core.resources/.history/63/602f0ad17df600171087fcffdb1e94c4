@@ -1,0 +1,27 @@
+# Strings funtions
+miString = 'hello world'
+
+# Capitalize
+print(miString.capitalize())
+
+# Swap case
+print(miString.swapcase())
+
+# Get lenght
+print(len(miString))
+
+# Replace
+print(miString.replace('world', 'todos'))
+
+letra = 'l'
+print(miString.count(letra))
+
+# Startwith
+print(miString.startswith('hello'))
+print(miString.endswith('hello'))
+
+# Split to list
+print(miString.split())
+
+# find inside the code
+print(miString.find(letra))

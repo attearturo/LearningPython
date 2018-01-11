@@ -1,0 +1,8 @@
+'''
+ Variables y Tipos de datos
+'''
+
+palabras = 'Hello world'
+palabras = 'Hello everyone'
+
+print(palabras)

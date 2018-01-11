@@ -1,0 +1,33 @@
+# Funtions
+
+# Create a funtions
+def sayHello(): # Define la funcion
+    print('Hello')
+    
+sayHello() # Declara la funcion
+
+# Create a funtions
+def sayHello(name = 'default'): # Define la funcion y un parametro pero con un valor predeterminado
+    print('Hello', name)
+    'Texto invisible'
+    
+sayHello('Arturo') # Declara la funcion
+
+
+# Retornar un valor
+def getSum(num1, num2):
+    total = num1 + num2
+    return total
+
+numSum = getSum(2, 2)
+print(numSum)
+
+
+def addOne(num):
+    num = 15
+    print('Value inside  funtion: ', num)
+    return
+
+num = 5
+addOne(num)
+print('Value outside funtion: ', num)

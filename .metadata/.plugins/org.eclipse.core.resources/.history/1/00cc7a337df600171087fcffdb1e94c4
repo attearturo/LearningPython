@@ -1,0 +1,5 @@
+# Strings funtions
+miString = 'hello world'
+
+# Capitalize
+print(miString.capitalize())

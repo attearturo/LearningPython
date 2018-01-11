@@ -1,0 +1,8 @@
+
+# Importar todo el modulo
+import objecto
+objecto.sayHello('Arturo')
+
+# Importar una funcion especifica
+from objecto import sayGoodbye
+sayGoodbye('Arturo')

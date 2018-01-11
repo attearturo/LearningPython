@@ -1,0 +1,8 @@
+
+
+
+import objecto
+objecto.sayHello('Arturo')
+
+from objecto import sayGoodbye
+sayGoodbye('Arturo')

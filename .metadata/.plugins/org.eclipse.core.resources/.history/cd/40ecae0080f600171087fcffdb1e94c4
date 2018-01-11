@@ -1,0 +1,11 @@
+# Fields
+
+fo = open('objectW.py', 'w') # w SIGNIFICA ESCRIBIR EN EL ARCHIVO
+
+# Get some info
+print('Name of the field: ', fo.name)
+print('Is closed: ',fo.closed)
+print('Opening mode: ',fo.mode)
+
+fo.write('I love python')
+fo.close()

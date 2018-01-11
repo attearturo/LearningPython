@@ -1,12 +1,52 @@
 -- VERSION_4
 -- START DISKCACHE_2
 C:\Users\Asus\Desktop\PDG\LearningPython\.metadata\.plugins\org.eclipse.core.resources\.projects\Introduction\com.python.pydev.analysis\v2_indexcache
+test_package.objectW|1515641538087771000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\objectW.py
+test_package.funtions|1515640222931026000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\funtions.py
+test_package.modules|1515641225817378000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\modules.py
+test_package.object|1515641673478274000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\object.py
+test_package.conditionals|1515639093025939000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\conditionals.py
+test_package.strings|1515640908169422000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\strings.py
+test_package.__init__|1515624643321617000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\__init__.py
+test_package.test_module|1515637769396792000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\test_module.py
+test_package.basics|1515638213006814000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\basics.py
+test_package.loops|1515639482732016000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\loops.py
+test_package.files|1515641744773967000|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\files.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+8
+1=test_package.funtions
+7=test_package.object
+2=test_package.conditionals
+5=test_package.strings
+3=test_package.loops
+4=test_package.files
+6=test_package.basics
+8=test_package.test_module
 -- END DICTIONARY
 -- START TREE 1
-0
+21
+a|0|
+add|2|addOne!10@addOneList!10@
+col|1|color!19@
+cou|1|count!27@
+fo|1|fo!35@
+get|1|getSum!10@
+let|1|letra!43@
+lis|1|lista!11@
+mia|1|miArray!51@
+mif|1|miFloat!51@
+mii|1|miInt!51@
+mil|1|miLista!51@
+mis|2|miString!43@miString!51@
+num|1|numSum!11@
+o|0|
+pal|1|palabras!51@
+peo|1|people!27@
+say|4|sayHello!10@sayGoodbye!58@sayHello!58@sayHellow!10@
+tes|2|test!66@test2!66@
+val|1|valor!11@
+x|1|x!19@
 -- END TREE
 -- START TREE 2
 0

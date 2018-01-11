@@ -1,0 +1,5 @@
+# Loops
+
+people = ['Jhon', 'Sara', 'Tim', 'Bob']
+for person in people:
+    print('Current Person: ', person)

@@ -1,0 +1,10 @@
+# Funtions
+
+# Create a funtions
+
+def sayHello(): # Define la funcion
+    print('Hello')
+    
+    sayHello() # Declara la funcion
+
+sayHello()

@@ -1,0 +1,17 @@
+'''
+ This is a multiline
+ comment
+'''
+
+# Helo world
+# Stay consistent with the quotes
+print ('Hello world')
+
+print('''This is a print that absoluty works.
+Arturo Gómez''')
+
+def test():
+    pass
+
+def test2():
+    pass

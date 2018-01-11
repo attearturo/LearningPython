@@ -1,0 +1,13 @@
+# Condionales
+x = 9
+
+# Basic IF
+# La indexacion es muy importante y determina los bloques de codigo
+if x < 6:
+    print('this is true')
+
+# If false
+if x < 6:
+    print('This is true')
+else:
+    print('This is false')    

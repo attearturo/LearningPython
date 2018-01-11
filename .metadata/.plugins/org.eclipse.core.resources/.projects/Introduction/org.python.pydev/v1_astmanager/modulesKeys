@@ -1,3 +1,12 @@
 MODULES_MANAGER_V2
 test_package.__init__|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\__init__.py
+test_package.basics|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\basics.py
+test_package.conditionals|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\conditionals.py
+test_package.files|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\files.py
+test_package.funtions|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\funtions.py
+test_package.loops|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\loops.py
+test_package.modules|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\modules.py
+test_package.object|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\object.py
+test_package.objectW|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\objectW.py
+test_package.strings|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\strings.py
 test_package.test_module|C:\Users\Asus\Desktop\PDG\LearningPython\Introduction\test_package\test_module.py
